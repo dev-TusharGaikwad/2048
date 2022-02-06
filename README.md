@@ -42,7 +42,7 @@ The original 2048 game is UI based game, so instead of using UI I decided to bui
 
 While designing this game I faced the following problems :
 
-1. While cheching the Game Over condition there was a change in the original matrix, so to overcome that I have used a copy of the original matrix.
+1. While checking the Game Over condition there was a change in the original matrix, so to overcome that I have used a copy of the original matrix.
 
 2. While shifting the tiles in the direction of the user input, if there is non-zero value between any two similar values in a same row/column the values were getting combined, this issue was solved by changing the conditions for swapping.
 
