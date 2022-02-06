@@ -275,4 +275,8 @@ This game can be converted into 8x8 grid from 4x4 grid by changing the value of 
 
 ## **CONTRIBUTERS** :
 
-    - [Tushar Gaikwad](https://github.com/devSython)
+[Tushar Gaikwad](https://github.com/devSython)
+
+## **Repository Link** :
+    
+[GitHub / 2048](https://github.com/devSython/2048)
