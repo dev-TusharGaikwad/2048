@@ -272,3 +272,7 @@ The *main()* function act as driver code. In this method all functions are calle
 ### **Scope of making this an 8x8 from 4x4** :
 
 This game can be converted into 8x8 grid from 4x4 grid by changing the value of *variable n* and also by changing the *variable peak* we can change the end number also.
+
+## **CONTRIBUTERS** :
+
+    - [Tushar Gaikwad](https://github.com/devSython)
